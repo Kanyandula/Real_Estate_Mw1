@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Real Estate Mw</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Create Adds</string>
+    <string name="title_notifications">Search</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="title_adds">Place your adds and see great performance</string>
+    <string name="place_adds">Place Adds</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="todo">TODO</string>
+    <string name="click_on_the_add_of_your_choice">CLICK ON THE ADD OF YOUR CHOICE</string>
+    <string name="property_for_rent">Property For Rent</string>
+    <string name="property_for_sale">Property For Sale</string>
+    <string name="city">title</string>
+    <string name="town">title</string>
+    <string name="place_your_adds_and_see_great_performance">Place your adds and see great performance</string>
+
+    <string name="this_city">City</string>
+    <string name="this_town">Town</string>
+    <string name="property_image">Property Image</string>
+    <string name="textview">TextView</string>
+    <string name="beds_icon">beds icon</string>
+    <string name="number_of_beds">Number of Beds</string>
+    <string name="buy_rent">Buy/Rent</string>
+    <string name="detail_image">Detail Image</string>
+    <string name="property_description">Property Description</string>
+    <string name="price">Price</string>
+    <string name="collapsing_toolbar_title">Real Estate Mw</string>
+    <string name="property_address">Property Address</string>
+    <string name="Beds">Beds</string>
+    <string name="Bath">Bath</string>
+    <string name="house_type">Type</string>
+    <string name="number_of_view">31,000</string>
+    <string name="daysLeft">Days Left</string>
+    <string name="days_left">21</string>
+    <string name="property_search">Property Search</string>
+    <string name="search_here">Search here</string>
+    <string name="search_button">Search button</string>
+
+</resources>
